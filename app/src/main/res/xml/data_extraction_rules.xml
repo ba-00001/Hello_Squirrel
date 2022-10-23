@@ -9,6 +9,7 @@
         <include .../>
         <exclude .../>
         -->
+        android:text="TEXT GOES HERE"
     </cloud-backup>
     <!--
     <device-transfer>
